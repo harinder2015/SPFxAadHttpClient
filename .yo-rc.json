@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.11.0",
+    "libraryName": "sp-fx-aad-http-client",
+    "libraryId": "2202d583-a018-49fb-978d-55f307f1c542",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
