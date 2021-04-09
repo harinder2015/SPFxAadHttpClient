@@ -65,7 +65,7 @@ return <div />;
         <div className={ styles.container }>
           <div className={ styles.row }>
             <div className={ styles.column }>
-              <span className={ styles.title }>AadHttpClient Demo</span>
+              <span className={ styles.title }>AadHttpClient AzureDemo</span>
               
             </div>
           </div>
